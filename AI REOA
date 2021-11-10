@@ -1,0 +1,157 @@
+z = 51
+x = 0.5
+import time
+y = 3
+time.sleep(y)
+time.sleep(y)
+
+print(type(x))
+print(type(y))
+print(type(z))
+x = 0.5 
+
+if z > 10:
+  print("X is Above ten,")
+  time.sleep(y)
+  if z > 20:
+    print("and also above 20!")
+    time.sleep(y)
+  if z > 30:
+     	print("Oh my, And also above 30!")
+     	time.sleep(y)
+  if z > 40:
+     	  	print("X is large!")
+     	  	time.sleep(y)
+  if z > 50:
+  	           print("I'm gonna be a old grandpa!")
+  	           time.sleep(y)
+  if z > 60:
+  	           print("I'm gonna be a old grandpa!")
+  	           time.sleep(y)
+  else:
+    print("WAIT... HEY AI! WHAT'S THE  NUMBER OF X?")
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+    time.sleep(x)
+print("Calculating number for X, Please Wait %5")
+time.sleep(y)
+print("Calculating number for X, Please Wait %10")
+time.sleep(y)
+print("Calculating number for X, Please Wait %15")
+time.sleep(y)
+print("Calculating number for X, Please Wait %20")
+time.sleep(y)
+print("Calculating number for X, Please Wait %25")
+time.sleep(y)
+print("Calculating number for X, Please Wait %30")
+time.sleep(y)
+print("Calculating number for X, Please Wait %35")
+time.sleep(y)
+print("Calculating number for X, Please Wait %40")
+time.sleep(y)
+print("Calculating number for X, Please Wait %45 ")
+time.sleep(y)
+print("Calculating number for X, Please Wait %50 ")
+time.sleep(y)
+print("Calculating number for X, Please Wait %55 ")
+time.sleep(y)
+print("Calculating number for X, Please Wait %60")
+time.sleep(y)
+print("Calculating number for X, Please Wait %65")
+time.sleep(y)
+print("Calculating number for X, Please Wait %70")
+time.sleep(y)
+print("Calculating number for X, Please Wait %75")
+time.sleep(y)
+print("Calculating number for X, Please Wait %80")
+time.sleep(y)
+print("Calculating number for X, Please Wait %85")
+time.sleep(y)
+print("Calculating number for X, Please Wait %90")
+time.sleep(y)
+print("Calculating number for X, Please Wait %95")
+time.sleep(y)
+y = 3
+y = 3
+print("Calculating number for X, Please Wait %100")
+time.sleep(y)
+print ("X is 41")
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+time.sleep(x)
+
+
+
+
+
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+
+print("System Overheated, Shutting down.")
+time.sleep(x)
+print("thank you")
